@@ -1,2 +1,2 @@
 # py-MHG
-The python copy of the original Monster Hunter 
+The python copy of the original C++ Monster Hunter Game (MHG)
